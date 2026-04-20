@@ -3,8 +3,8 @@
 Repositório para o Projeto de Redes de Computadores 2.
 
 ## Grupo
-- 14060 - Francisco
-- 27131
+- 14060 - Francisco Soudo
+- 27131 - Miguel Pauzinho
 
 ## Tecnologias
 - **Simulação:** GNS3
